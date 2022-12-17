@@ -1,11 +1,5 @@
 .main-banner{
-    width: 100%;
     height: 797px;
     background-image: url(../../assets/img/Banner/photo-back.png);
+    border-bottom: 10px solid #000;
 }
-
-
-
-
-
-
